@@ -1,12 +1,18 @@
-### Hi there 👋
+# Hello there! 👋 I'm Tejaswi Samavedula
 
-<!--
-**tejaswidev/tejaswidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/tejaswidev?label=Followers&style=social)](https://github.com/tejaswidev)
+[![GitHub stars](https://img.shields.io/github/stars/tejaswidev?style=social)](https://github.com/tejaswidev)
 
-Here are some ideas to get you started:-->
+## About Me
+
+Currently learning Robotics Software Development. I'm enthusiastic about Robotics and Machine Learning.
+
+### Contact
+
+- Email: tejaswisamavedula@gmail.com
+- LinkedIn: https://www.linkedin.com/in/tejaswisamavedula/
 
 - 🔭 I’m currently working on Network Scanner
 - 🌱 I’m currently learning ROS2, Gazebo, C++
-- 💬 Ask me about ...
-- 📫 How to reach me: tejaswisamavedula@gmail.com
 
+Thanks for visiting my GitHub profile, and I look forward to connecting with you!
