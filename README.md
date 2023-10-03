@@ -12,7 +12,7 @@ Currently learning Robotics Software Development. I'm enthusiastic about Robotic
 - Email: tejaswisamavedula@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tejaswisamavedula/
 
-- 🔭 I’m currently working on Network Scanner
+- 🔭 I’m currently working on Network Vulnerability Scanner 
 - 🌱 I’m currently learning ROS2, Gazebo, C++
 
 Thanks for visiting my GitHub profile, and I look forward to connecting with you!
