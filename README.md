@@ -1,11 +1,8 @@
-# Hello there! 👋 I'm Tejaswi Samavedula
-
-[![GitHub followers](https://img.shields.io/github/followers/tejaswidev?label=Followers&style=social)](https://github.com/tejaswidev)
-[![GitHub stars](https://img.shields.io/github/stars/tejaswidev?style=social)](https://github.com/tejaswidev)
+# 👋 I'm Tejaswi Samavedula
 
 ## About Me
 
-Currently learning Robotics Software Development. I'm enthusiastic about Robotics and Machine Learning.
+Currently working on Robotics Software Development. Enthusiastic about Robotics and Machine Learning.
 
 ### Contact
 
